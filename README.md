@@ -1,4 +1,4 @@
-# Exhaust-Pipe-Emission-Control-in-Internal-Combustion-Engines-Using-AI
+# Exhaust Pipe Emission Control in Internal Combustion Engines
 
 ## **Problem Statement**
 Spark Ignition Internal Combustion Engines (SI ICE) are among the most common causes of air pollution in urban areas. 
