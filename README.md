@@ -44,5 +44,5 @@ The control goal is keeping lambda inside the window of ± 1% of the stoichiomet
 The Simulink model is exported as a MATLAB 2014b version, so you must have at least a 2014b version of MATLAB installed on your machine. 
 - First run "engine_initials_MPC.m"
 - Then, run the Simulink model, "MPC_GD_2014b.mdl".
-- Sit back and enjoy the resutls. 
+- Sit back and enjoy the results. 
 
